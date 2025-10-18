@@ -1,0 +1,121 @@
+(footprint "Sparkgap"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "SG12"
+		(at -0.2 6 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ce37b572-4bcb-491c-95b0-30433ee71497")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Sparkgap_2021-09-02"
+		(at -0.1 4.4 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd6b2b82-7098-428d-acbb-3b444af248d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "176c2031-dc0d-4118-b2e8-3ac80a73919c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92d86fc7-d405-483c-9835-de490a7829ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07f46a55-ed11-4e47-863f-6874a0d8c778")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_poly
+		(pts
+			(xy 0.5 0.9) (xy -0.5 0.9) (xy -0.5 0.29) (xy 0.5 0.29)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "181aec82-55c6-4027-8d8c-b317af3e8cf7")
+	)
+	(pad "1" smd custom
+		(at -0.72 0.57)
+		(size 0.3 0.3)
+		(layers "F.Cu")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.57 0.03) (xy -0.03 -0.17) (xy 0.57 0.03) (xy -0.03 -0.17) (xy 0.57 0.03) (xy -0.03 -0.17)
+					(xy 0.57 0.03) (xy 0.07 0.18) (xy -0.08 0.18) (xy -0.08 -0.17) (xy 0.02 -0.17)
+				)
+				(width 0.03)
+				(fill yes)
+			)
+		)
+		(uuid "a71d42be-1a68-4774-92cf-be08de2e93fe")
+	)
+	(pad "2" smd custom
+		(at 0.72 0.56 180)
+		(size 0.3 0.3)
+		(layers "F.Cu")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.57 -0.04) (xy -0.01 0.16) (xy 0.57 -0.04) (xy -0.02 0.16) (xy 0.57 -0.04) (xy -0.03 0.16)
+					(xy 0.57 -0.04) (xy 0.07 0.16) (xy -0.08 0.16) (xy -0.08 -0.19) (xy 0.07 -0.19)
+				)
+				(width 0.03)
+				(fill yes)
+			)
+		)
+		(uuid "b299ab3c-fce0-49be-bf2a-9ae6f18e4962")
+	)
+)
