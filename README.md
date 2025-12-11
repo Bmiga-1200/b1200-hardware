@@ -2,9 +2,36 @@
 # B1200
 Modern Amiga 1200 clone implementation using Cyclone V FPGA
 
----
+## Features
+The hardware design supports these features:
+1. USB-C PD Sink / TCPC
+3. USB-C DP Sink (4-lane Alt Mode)
+   * DisplayPort Output
+   * DisplayPort Retimer
+4. USB-C 2.0 End point / Hub
+   * USB Keyboard
+   * USB Mouse
+   * UART to FPGA Debug port
+   * UART to ESP32 Programming port / bootstrap
+5. KVM to switch Monitor/Keyboard/mouse between USB-C upstream or FPGA USB OTG
+6. DVI-A output
+   * DVI to FPGA
+   * VGA to ESP32   
+7. ESP32 as the embedded controller
+   * KVM Switch control
+   * Fan Speed Control
+   * A500 Keyboard scanner
+   * USB HID
+   * VGA (64 color) display for boot time messages
+   * RTC Emulation on I2C
+   * SLiRP Modem Emulation on UART
+8. FPGA I2S to analog 3.5mm audio jack output
+9. DDR RAM to FPGA expansion bus
+10. Cyclone V FPGA on the draughtboard
 
-## EC (ESP32) Functions and pin assignments
+## Hardware Pin assignments:
+
+### EC (ESP32) Functions and pin assignments
 @o: output
 @i: Input
 3v3: +3.3V logic
@@ -42,7 +69,7 @@ Modern Amiga 1200 clone implementation using Cyclone V FPGA
   - LED STATUS = IO15@o3v3
   - LED INUSE = IO16@o3v3
 
-## FPGA (Cyclone V) Functions and pin assignments
+### FPGA (Cyclone V) Functions and pin assignments
 
 * DP on HDMI Flext
 
@@ -138,7 +165,7 @@ Modern Amiga 1200 clone implementation using Cyclone V FPGA
 |DSK|Y16|
 
 
-## Thanks/Credit
+# Thanks/Credit
 
 Some sections of the hardware design were inspired by the following projects.
 - [Terasic](https://www.terasic.com.tw/en/) DE10-Nano
@@ -154,7 +181,7 @@ Some sections of the hardware design were inspired by the following projects.
 - [Amiga-Keyboard](https://github.com/solarmon/Amiga-Keyboard/): map of Commodore Amiga keyboards
 
 
-## License
+# License
 
 The hardware files in this repository are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
