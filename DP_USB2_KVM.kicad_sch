@@ -9716,7 +9716,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "ADC2_CH5" input line)
 					(alternate "RTC_IO15" bidirectional line)
 					(alternate "U0RTS" bidirectional line)
@@ -9739,7 +9738,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "ADC2_CH5" input line)
 					(alternate "RTC_GPIO16" bidirectional line)
 					(alternate "U0CTS" bidirectional line)
@@ -23919,16 +23917,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 55.88) (xy 241.3 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5576c484-e6b1-4099-896a-b425f86e2f53")
-	)
-	(wire
-		(pts
 			(xy 116.84 208.28) (xy 120.65 208.28)
 		)
 		(stroke
@@ -24279,6 +24267,16 @@
 			(type default)
 		)
 		(uuid "5f3cc785-8236-4a67-884b-13347f124f3a")
+	)
+	(wire
+		(pts
+			(xy 242.57 55.88) (xy 242.57 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f53624f-3fd8-4576-8fa3-a745ab934d50")
 	)
 	(wire
 		(pts
@@ -29338,7 +29336,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 67.31) (xy 241.3 67.31)
+			(xy 179.07 67.31) (xy 242.57 67.31)
 		)
 		(stroke
 			(width 0)
@@ -29380,7 +29378,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 55.88) (xy 241.3 55.88)
+			(xy 229.87 55.88) (xy 242.57 55.88)
 		)
 		(stroke
 			(width 0)
@@ -55422,7 +55420,6 @@
 		)
 		(pin "9"
 			(uuid "904d782f-d63d-4369-8800-9986f13bc3c0")
-			(alternate "IO16")
 		)
 		(pin "15"
 			(uuid "6c13b1f5-c829-40e4-8d36-ebacf7d312e5")

@@ -7952,7 +7952,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 22.86 0)
@@ -7971,7 +7970,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 20.32 0)
@@ -7990,7 +7988,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 17.78 0)
@@ -8009,7 +8006,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 15.24 0)
@@ -8028,7 +8024,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin power_out line
 					(at -22.86 12.7 0)
@@ -8065,7 +8060,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 7.62 0)
@@ -8084,7 +8078,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 5.08 0)
@@ -8103,7 +8096,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 2.54 0)
@@ -8122,7 +8114,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 0 0)
@@ -8141,7 +8132,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 -2.54 0)
@@ -8160,7 +8150,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 -5.08 0)
@@ -8179,7 +8168,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 -7.62 0)
@@ -8198,7 +8186,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin power_out line
 					(at -22.86 -10.16 0)
@@ -8235,7 +8222,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 -15.24 0)
@@ -8254,7 +8240,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 -17.78 0)
@@ -8273,7 +8258,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 -20.32 0)
@@ -8292,7 +8276,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -22.86 -22.86 0)
@@ -8311,7 +8294,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 25.4 180)
@@ -8330,7 +8312,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 22.86 180)
@@ -8349,7 +8330,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 20.32 180)
@@ -8368,7 +8348,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 17.78 180)
@@ -8387,7 +8366,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 15.24 180)
@@ -8406,7 +8384,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin power_out line
 					(at 21.59 12.7 180)
@@ -8443,7 +8420,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 7.62 180)
@@ -8462,7 +8438,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 5.08 180)
@@ -8481,7 +8456,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 2.54 180)
@@ -8500,7 +8474,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 0 180)
@@ -8519,7 +8492,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 -2.54 180)
@@ -8538,7 +8510,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 -5.08 180)
@@ -8557,7 +8528,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 -7.62 180)
@@ -8576,7 +8546,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin power_out line
 					(at 21.59 -10.16 180)
@@ -8613,7 +8582,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 -15.24 180)
@@ -8632,7 +8600,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 -17.78 180)
@@ -8651,7 +8618,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 -20.32 180)
@@ -8670,7 +8636,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at 21.59 -22.86 180)
@@ -8689,7 +8654,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 				)
 			)
 			(symbol "Conn_QMTECH_Cyclone_V_SoC_KFB_2_2_1"
@@ -43886,15 +43850,12 @@
 		)
 		(pin "61"
 			(uuid "b745c147-4fd1-402b-9246-8f49becd9be6")
-			(alternate "A9")
 		)
 		(pin "68"
 			(uuid "348587d8-fcc6-47cb-9884-1142c9eda70f")
-			(alternate "A4")
 		)
 		(pin "79"
 			(uuid "ac4026f6-dd7f-4fa7-80d8-2032df0d01ca")
-			(alternate "A2")
 		)
 		(pin "35"
 			(uuid "08540f49-7d25-46f8-a109-cb2734ec7dbe")
@@ -43910,7 +43871,6 @@
 		)
 		(pin "45"
 			(uuid "31c91900-174a-49bf-ad73-f960f16eae7a")
-			(alternate "DQ4")
 		)
 		(pin "18"
 			(uuid "35fda81d-2e55-4896-aed3-eb7e65026032")
@@ -43938,7 +43898,6 @@
 		)
 		(pin "50"
 			(uuid "6e5026e7-a707-42c8-95d6-0db240dad154")
-			(alternate "DQ15")
 		)
 		(pin "116"
 			(uuid "8ff6857d-da07-4ddb-bf79-b163e04fd2e7")
@@ -43948,18 +43907,15 @@
 		)
 		(pin "41"
 			(uuid "00a66b06-a6a1-4c47-a629-efed192e2381")
-			(alternate "DQ0")
 		)
 		(pin "95"
 			(uuid "4a9e2154-ad47-4134-80ab-0a18ca88deae")
 		)
 		(pin "44"
 			(uuid "e4afdfce-300b-46cc-bf14-9ab8c0fa9e05")
-			(alternate "DQ3")
 		)
 		(pin "63"
 			(uuid "dc06857e-29b2-4630-b6c0-8165f866d929")
-			(alternate "A7")
 		)
 		(pin "19"
 			(uuid "ecba0247-d22e-4deb-af3f-08043711da21")
@@ -43972,11 +43928,9 @@
 		)
 		(pin "56"
 			(uuid "504f1776-3ba8-4f28-9e09-8a5cd11657fd")
-			(alternate "DQ10")
 		)
 		(pin "65"
 			(uuid "82d66dbb-5384-49f9-aec8-a259eec3e844")
-			(alternate "A5")
 		)
 		(pin "83"
 			(uuid "2dd05404-22f5-4c68-bdd4-e94635018bde")
@@ -44001,18 +43955,15 @@
 		)
 		(pin "49"
 			(uuid "3c43c4cc-3ece-4a85-9729-4f92cd09ada4")
-			(alternate "DQ14")
 		)
 		(pin "38"
 			(uuid "cfffa914-6464-454f-bded-8147ddb6696c")
 		)
 		(pin "57"
 			(uuid "e8183fdc-e25c-4013-b7f3-d411eaca5a66")
-			(alternate "DQ9")
 		)
 		(pin "43"
 			(uuid "64e424e0-5c2f-4091-aed8-df61ff498cfd")
-			(alternate "DQ2")
 		)
 		(pin "108"
 			(uuid "e09450af-af56-449f-af4a-f5a50030aa15")
@@ -44052,7 +44003,6 @@
 		)
 		(pin "46"
 			(uuid "328a4ad3-8239-4658-94fb-c2d6c602fb7b")
-			(alternate "DQ5")
 		)
 		(pin "109"
 			(uuid "c1472a52-17aa-42ae-8939-bc4090ab7606")
@@ -44062,11 +44012,9 @@
 		)
 		(pin "62"
 			(uuid "4b27f955-7af1-4146-a179-2e1b79516437")
-			(alternate "A11")
 		)
 		(pin "60"
 			(uuid "74dd69e5-77b9-4d5b-a75a-adec373bb134")
-			(alternate "CK0")
 		)
 		(pin "110"
 			(uuid "45da5474-5455-4a77-be48-33365fcd34e6")
@@ -44076,7 +44024,6 @@
 		)
 		(pin "47"
 			(uuid "b7607379-3652-4af6-b86c-10bd4e366ff9")
-			(alternate "DQ6")
 		)
 		(pin "25"
 			(uuid "eb8c0315-79ef-4f15-ba6c-2c45b34143b5")
@@ -44089,7 +44036,6 @@
 		)
 		(pin "80"
 			(uuid "d7d90c07-0709-4de9-aa46-021a5fa25517")
-			(alternate "A3")
 		)
 		(pin "9"
 			(uuid "433e2448-58ce-414e-baa1-723fd744ad2b")
@@ -44102,7 +44048,6 @@
 		)
 		(pin "59"
 			(uuid "1a3ebbe0-9919-4919-8b52-dfaf45514bb9")
-			(alternate "A12")
 		)
 		(pin "32"
 			(uuid "81031ff3-c710-4c2c-91ae-6e579a0a1021")
@@ -44115,11 +44060,9 @@
 		)
 		(pin "64"
 			(uuid "3b8a2768-ad14-45a3-8aff-2f779361664e")
-			(alternate "A8")
 		)
 		(pin "58"
 			(uuid "202dbb2c-0ccb-42c0-b958-39caf27f6bbc")
-			(alternate "DQ8")
 		)
 		(pin "23"
 			(uuid "938e1e14-a43f-4227-ab12-c8ea7dd56979")
@@ -44138,15 +44081,12 @@
 		)
 		(pin "73"
 			(uuid "23308b47-8dea-4ee2-8a7b-540bb7404ee6")
-			(alternate "~{S0}")
 		)
 		(pin "42"
 			(uuid "c3d69de4-968a-480c-87d4-3b0a5c87125a")
-			(alternate "DQ1")
 		)
 		(pin "53"
 			(uuid "242a3525-8b35-47fc-8ca2-7e2bcb4be24d")
-			(alternate "DQ13")
 		)
 		(pin "89"
 			(uuid "c2b148a4-902a-40be-bf0e-c9a2a5ec4a4a")
@@ -44156,11 +44096,9 @@
 		)
 		(pin "77"
 			(uuid "0b3f73ef-a366-43f1-a3d5-22ee0b737842")
-			(alternate "A0")
 		)
 		(pin "54"
 			(uuid "987f11e8-928f-4c72-ae34-ed1741418841")
-			(alternate "DQ12")
 		)
 		(pin "14"
 			(uuid "64fb270e-851f-4744-bba2-8bbbfcb04d01")
@@ -44179,11 +44117,9 @@
 		)
 		(pin "48"
 			(uuid "a1274011-ada8-4af1-8ef9-17bb5c9b9c59")
-			(alternate "DQ7")
 		)
 		(pin "75"
 			(uuid "f1529854-91c3-4f4b-a4cb-19c4b5d0a02b")
-			(alternate "BA1")
 		)
 		(pin "37"
 			(uuid "990dc61e-b64e-4357-b771-f80e1271afa8")
@@ -44193,7 +44129,6 @@
 		)
 		(pin "78"
 			(uuid "06c73df4-4a8f-4093-9f12-8fd0d196e305")
-			(alternate "A1")
 		)
 		(pin "29"
 			(uuid "e177d9e8-3dd0-48eb-94e8-5773dce559cb")
@@ -44209,7 +44144,6 @@
 		)
 		(pin "55"
 			(uuid "8a0128e2-c888-4e8b-9c18-9d26ef459118")
-			(alternate "DQ11")
 		)
 		(pin "2"
 			(uuid "a6182323-4e4f-46c2-8044-c0664db1ee9e")
@@ -44222,14 +44156,12 @@
 		)
 		(pin "72"
 			(uuid "78a431ff-3d80-4409-aa89-8c5fa4962227")
-			(alternate "~{RAS}")
 		)
 		(pin "120"
 			(uuid "27ff300f-917c-4a06-82a3-e0cf7ad7a776")
 		)
 		(pin "66"
 			(uuid "164607d3-d5e4-4a66-bff8-371ced137ee4")
-			(alternate "A6")
 		)
 		(pin "52"
 			(uuid "e913f78c-aafe-43d8-9884-4a0c9a167d5a")
@@ -44239,7 +44171,6 @@
 		)
 		(pin "67"
 			(uuid "79bff6c4-41a6-46db-8c46-520a49d90022")
-			(alternate "~{WE}")
 		)
 		(pin "16"
 			(uuid "4346313e-6f69-49e1-b5de-ca5de04a930e")
@@ -44249,21 +44180,18 @@
 		)
 		(pin "76"
 			(uuid "fec760e5-7773-4841-9166-4c6fab339220")
-			(alternate "A10")
 		)
 		(pin "1"
 			(uuid "97320be2-e654-4b1b-b82d-ffd85b8b41ec")
 		)
 		(pin "74"
 			(uuid "9003a014-9a3d-4ddb-9726-53f0186c1163")
-			(alternate "BA0")
 		)
 		(pin "88"
 			(uuid "09b36615-630b-4f73-8780-dedf42b460c8")
 		)
 		(pin "71"
 			(uuid "eb75dd51-d4f2-4a82-8288-131e0207d249")
-			(alternate "~{CAS}")
 		)
 		(pin "104"
 			(uuid "3104b712-b589-4bcf-a8fc-0024c00c15bd")
