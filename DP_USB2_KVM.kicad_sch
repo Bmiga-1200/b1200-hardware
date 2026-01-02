@@ -18417,6 +18417,12 @@
 		(uuid "75f90550-8579-405a-bc78-f67b1874a359")
 	)
 	(junction
+		(at 426.72 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "765c3755-1637-46fe-befd-722076d1431f")
+	)
+	(junction
 		(at 80.01 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -20907,6 +20913,16 @@
 	)
 	(wire
 		(pts
+			(xy 426.72 152.4) (xy 426.72 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f4ad656-2aa7-4322-ba13-e55fcb72388e")
+	)
+	(wire
+		(pts
 			(xy 236.22 80.01) (xy 236.22 77.47)
 		)
 		(stroke
@@ -22195,7 +22211,7 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 152.4) (xy 356.87 152.4)
+			(xy 426.72 152.4) (xy 356.87 152.4)
 		)
 		(stroke
 			(width 0)
@@ -25264,6 +25280,16 @@
 	)
 	(wire
 		(pts
+			(xy 426.72 167.64) (xy 426.72 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "791d5b7e-3a7f-48fa-beef-578fd831418b")
+	)
+	(wire
+		(pts
 			(xy 447.04 130.81) (xy 455.93 130.81)
 		)
 		(stroke
@@ -27648,7 +27674,7 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 151.13) (xy 407.67 152.4)
+			(xy 426.72 151.13) (xy 426.72 152.4)
 		)
 		(stroke
 			(width 0)
@@ -28865,7 +28891,7 @@
 	)
 	(wire
 		(pts
-			(xy 455.93 151.13) (xy 407.67 151.13)
+			(xy 455.93 151.13) (xy 426.72 151.13)
 		)
 		(stroke
 			(width 0)
@@ -39452,6 +39478,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 426.72 168.91 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "37091e51-a0c8-43a3-b976-cb53523e9bb7")
+		(property "Reference" "#PWR?"
+			(at 426.72 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 426.72 172.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 426.72 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 426.72 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 426.72 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20627bfd-cd63-485d-8450-b00bdf21312e")
+		)
+		(instances
+			(project "b1200"
+				(path "/0b04800c-ea22-4b39-b754-6bceaeb1d8a1/9a54e776-69b7-4368-a2d9-dd84cdb57989"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 88.9 363.22 180)
 		(unit 1)
@@ -49976,6 +50067,137 @@
 			(project "DP_USB2_KVM"
 				(path "/40f35af4-345c-4efc-8f39-9625d24f0238"
 					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 426.72 163.83 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "856bf5c1-324f-41f7-8c00-2ebcf59a2b74")
+		(property "Reference" "R?"
+			(at 424.688 160.274 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 424.434 167.132 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 427.736 163.576 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 426.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d6189c67-2700-4fed-93b5-146bb39a7ce4")
+		)
+		(pin "1"
+			(uuid "09607fc5-8933-4e32-9759-0180ab78745a")
+		)
+		(instances
+			(project "b1200"
+				(path "/0b04800c-ea22-4b39-b754-6bceaeb1d8a1/9a54e776-69b7-4368-a2d9-dd84cdb57989"
+					(reference "R?")
 					(unit 1)
 				)
 			)
